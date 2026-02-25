@@ -1,0 +1,7 @@
+{
+  "name": "AgriGasha AI",
+  "description": "An offline-capable crop disease diagnosis app for Ethiopian farmers, supporting Amharic and English.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
